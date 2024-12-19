@@ -4,7 +4,7 @@
         whisp ✦
     </h3>
     <p>
-            16 y.o. web dev costa rica
+            16 y.o. web dev from costa rica
     </p>
     <div>
         <strong>
@@ -47,7 +47,4 @@
             </p>
         </div>
     </div>
-    <em>
-        thank you for visiting my profile ~
-    </em>
 </div>
