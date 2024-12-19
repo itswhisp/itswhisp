@@ -4,7 +4,7 @@
         whisp ✦
     </h3>
     <p>
-            16 y.o. web dev from costa rica
+            16 y.o. — web developer — open source enthusiast
     </p>
     <div>
         <strong>
