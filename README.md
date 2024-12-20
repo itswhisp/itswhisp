@@ -27,24 +27,4 @@
                 discord</a>
         </strong>
     </div>
-    <h2>
-        current projects
-    </h2>
-    <div>
-        <div>
-            <h3>
-                Filebeam —
-                <a href="https://filebeam.xyz">
-                    <em>
-                        filebeam.xyz
-                    </em>
-                </a>
-            </h3>
-            <p>
-                <em>Share files, anywhere.</em>
-                — Filebeam is a service that allows you to quickly share files
-                through direct links.
-            </p>
-        </div>
-    </div>
 </div>
