@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="img/kyubey.gif">
+    <img src="img/hakase.gif">
     <h3>
-        whisp ✦
+        whisp 𖦹
     </h3>
     <p>
             16 y.o. — web developer — open source enthusiast
