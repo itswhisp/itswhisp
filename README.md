@@ -18,7 +18,7 @@
         </strong>
         &MediumSpace;
         <strong>
-            <a href="https://bsky.app/whisp.moe">
+            <a href="https://bsky.app/profile/whisp.moe">
                 bluesky</a>
         </strong>
         &MediumSpace;
